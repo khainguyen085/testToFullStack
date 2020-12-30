@@ -1,0 +1,48 @@
+.fullQues{  
+    width: 1000px;
+    height: 500px;
+    margin-left: 400px;
+}
+.boxQues{
+    width: 510px;
+    height: 250px;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+    margin-top:25px;
+    background-color: teal;
+    color: orange;
+    border-radius:10px;
+}
+button{
+    width: 120px;
+    height: 100px;
+    margin-left: 5px;
+    float:left;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: orange;
+}
+.quesContainer{
+    margin-top: 90px;
+    width: 600px;
+    height: 150px;
+}
+.point{
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    margin-left: 600px;
+}
+.playagain{
+    position: fixed;
+    margin-left: 600px;
+    margin-top: 80px;
+}
+#restart{
+    width: 100px;
+    height: 50px;
+
+}
